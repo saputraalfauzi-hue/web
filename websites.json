@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Web Code Storage",
+    "desc": "menyimpan kode html, css, dan JavaScript",
+    "url": "https://saputraalfauzi-hue.github.io/2Sajiwo/",
+    "image": "images/1.jpg",
+    "creator": "Bagus"
+  },
+  {
+    "id": 2,
+    "name": "Contoh Lain",
+    "desc": "Deskripsi website lain",
+    "url": "https://contoh.com",
+    "image": "images/2.jpg",
+    "creator": "Nama Pembuat"
+  }
+]
