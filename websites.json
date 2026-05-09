@@ -9,10 +9,10 @@
   },
   {
     "id": 2,
-    "name": "Contoh Lain",
-    "desc": "Deskripsi website lain",
-    "url": "https://contoh.com",
+    "name": "Cavas",
+    "desc": "website untuk menggambar",
+    "url": "https://saputraalfauzi-hue.github.io/Canvas/",
     "image": "images/2.jpg",
-    "creator": "Nama Pembuat"
+    "creator": "Bagas"
   }
 ]
