@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Web Code Storage",
-    "desc": "Newly import code html, css, dan JavaScript",
+    "desc": "import code html, css, dan JavaScript",
     "url": "https://saputraalfauzi-hue.github.io/2sajiwo/",
     "image": "images/1.jpg",
     "creator": "Bagus"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Komponen PC",
-    "desc": "Eksplorasi 11 komponen esensial - dari prosesor hingga tempa pabrik. Desain elegan, informasi presisi.",
+    "desc": "Eksplorasi 11 komponen esensial - dari prosesor hingga termal paste. Desain elegan, informasi presisi.",
     "url": "https://saputraalfauzi-hue.github.io/Pengenalan_Hardware/",
     "image": "images/3.jpg",
     "creator": "Bagas"
