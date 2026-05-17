@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Web Code Storage",
     "desc": "Newly import code html, css, dan JavaScript",
-    "url": "https://saputraalfauzi-hue.github.io/25ajiwm/",
+    "url": "https://saputraalfauzi-hue.github.io/2sajiwo/",
     "image": "images/1.jpg",
-    "creator": "Bupas"
+    "creator": "Bagus"
   },
   {
     "id": 2,
-    "name": "Cavas",
+    "name": "Canvas",
     "desc": "website untuk menggambar",
-    "url": "https://saputraalfauzi-hue.github.io/Cavas/",
+    "url": "https://saputraalfauzi-hue.github.io/Canvas/",
     "image": "images/2.jpg",
-    "creator": "Bupas"
+    "creator": "Bagas"
   },
   {
     "id": 3,
     "name": "Komponen PC",
     "desc": "Eksplorasi 11 komponen esensial - dari prosesor hingga tempa pabrik. Desain elegan, informasi presisi.",
-    "url": "https://saputraalfauzi-hue.github.io/Pengenalan_Jardware/",
+    "url": "https://saputraalfauzi-hue.github.io/Pengenalan_Hardware/",
     "image": "images/3.jpg",
-    "creator": "Bupas"
+    "creator": "Bagas"
   }
 ]
